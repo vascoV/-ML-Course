@@ -1,1 +1,1 @@
-#Coursera MAchine Learning by by Stanford University
+# Coursera Machine Learning by Stanford University
